@@ -1,6 +1,6 @@
 {
   "latestVersion": "1.2.1",
   "minimumSupportedVersion": "1.1.4",
-  "downloadUrl": "https://github.com/KANG77556/SCERP-Timetable-Widget-Releases/releases/download/android-v1.2.1/MilseongJeil-Timetable-v1.2.1.apk",
+  "downloadUrl": "https://github.com/KANG77556/SCERP-Timetable-Widget-Releases/releases/download/android-v1.2.1/app-release.apk",
   "releaseNotes": "밀성제일고 시간표 v1.2.1: 업데이트 확인 버튼 실제 연동, 최신/새 버전/필수 업데이트 상태 표시, 업데이트 다운로드 버튼 추가, 앱 정보 한글 표시 정상화"
 }
